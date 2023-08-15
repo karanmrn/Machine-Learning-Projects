@@ -1,1 +1,1 @@
-# example
+#A health insurance provider is looking to expand into car insurance. We have been given a dataset in which our task is to build Machine #Learning Models to predict the Result of whether a customer will buy Car Insurance based on the given variables.Based on the information #from the column names and associated data values, the dataset contains categorical and numerical features as follows.
